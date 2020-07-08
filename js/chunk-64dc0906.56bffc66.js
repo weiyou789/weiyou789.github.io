@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-64dc0906"],{"63fb":function(n,t,e){"use strict";var c=e("6eb1"),u=e.n(c);u.a},"6eb1":function(n,t,e){},f48c:function(n,t,e){"use strict";e.r(t);var c=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{staticClass:"home"},[n._v("\n    button组件\n")])},u=[],a={name:"button"},s=a,o=(e("63fb"),e("2877")),i=Object(o["a"])(s,c,u,!1,null,"4c90f7a6",null);t["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-64dc0906.56bffc66.js.map
